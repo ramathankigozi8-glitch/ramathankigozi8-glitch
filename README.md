@@ -49,7 +49,7 @@ Having mastered data and AI literacy core fundamentals, I am expanding my toolki
 *This section updates automatically via a GitHub Action every day and on every push.*
 
 <!-- PROJECTS:START -->
-- **[-ramathankigozi8-glitch](https://github.com/ramathankigozi8-glitch/-ramathankigozi8-glitch)** — Aspiring Data Analyst @ ALX ehub | Turning data into decisions — Python · SQL · Excel · Power BI.Visualization <br>  `Python` ⭐ 0
+_No public repositories yet — check back soon as I publish my data analytics projects!_
 <!-- PROJECTS:END -->
 
 ---
