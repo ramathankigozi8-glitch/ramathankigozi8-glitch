@@ -63,18 +63,6 @@ Having mastered data and AI literacy core fundamentals, I am expanding my toolki
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramathankigozi8-glitch&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramathankigozi8-glitch&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 * 💼 **LinkedIn:** [kigozi-ramathan-381a8b3a1](https://www.linkedin.com/in/kigozi-ramathan-381a8b3a1)
