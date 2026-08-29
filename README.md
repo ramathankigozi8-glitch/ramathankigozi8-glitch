@@ -35,15 +35,6 @@ Having mastered data and AI literacy core fundamentals, I am expanding my toolki
 
 ---
 
-## 📁 Analytical Case Studies & Repositories
-
-* 📊 **[Retail Revenue Optimization](https://github.com/ramathankigozi8-glitch)** — Analyzing historical sales transactions to diagnose decreasing monthly revenue trends and provide clear recommendations to improve retail performance.
-* 🚗 **[Ride-Sharing Ratings Evaluation](https://github.com/ramathankigozi8-glitch)** — Evaluating quarterly drops in customer service satisfaction scores to isolate key operational pain points and improve user experiences.
-* 🏥 **[Hospital Wait-Time Reduction](https://github.com/ramathankigozi8-glitch)** — Investigating emergency department intake workflows to reduce operational bottlenecks, maintain patient care quality, and optimize budget parameters.
-* 🗄️ **[Database Architecture Design](https://github.com/ramathankigozi8-glitch)** — Implementing data models with primary and foreign key constraints to ensure relational data integrity and clean querying structures.
-
----
-
 ## 🗃️ Recent Repositories
 
 *This section updates automatically via a GitHub Action every day and on every push.*
