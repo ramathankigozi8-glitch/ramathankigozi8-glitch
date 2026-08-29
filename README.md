@@ -49,7 +49,7 @@ Having mastered data and AI literacy core fundamentals, I am expanding my toolki
 *This section updates automatically via a GitHub Action every day and on every push.*
 
 <!-- PROJECTS:START -->
-_No public repositories yet — check back soon as I publish my data analytics projects!_
+- **[Retail-Revenue-Optimization](https://github.com/ramathankigozi8-glitch/Retail-Revenue-Optimization)** — Data analysis of retail sales to diagnose declining monthly revenue — Python, Pandas, EDA<br>  `Jupyter Notebook` ⭐ 0
 <!-- PROJECTS:END -->
 
 ---
